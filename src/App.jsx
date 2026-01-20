@@ -50,7 +50,7 @@ export default function PremiumPortfolio() {
             <div className="relative">
               <div className="absolute -inset-1 rounded-3xl bg-gradient-to-tr from-indigo-500 to-purple-600 blur opacity-70"></div>
               <img
-                src="/lenita-profile.jpg"
+                src="/lenitta.jpeg"
                 alt="Lenita Mary Varghese"
                 className="relative w-72 h-72 object-cover object-top rounded-3xl border border-white/10"
                 onError={(e) => {
